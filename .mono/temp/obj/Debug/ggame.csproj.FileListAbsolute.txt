@@ -1,0 +1,6 @@
+C:\Users\Rose\Documents\GitHub\ggame\.mono\temp\obj\Debug\ggame.csprojAssemblyReference.cache
+C:\Users\Rose\Documents\GitHub\ggame\.mono\temp\obj\Debug\ggame.csproj.CoreCompileInputs.cache
+C:\Users\Rose\Documents\GitHub\ggame\.mono\temp\bin\Debug\ggame.dll
+C:\Users\Rose\Documents\GitHub\ggame\.mono\temp\bin\Debug\ggame.pdb
+C:\Users\Rose\Documents\GitHub\ggame\.mono\temp\obj\Debug\ggame.dll
+C:\Users\Rose\Documents\GitHub\ggame\.mono\temp\obj\Debug\ggame.pdb

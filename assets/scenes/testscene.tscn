@@ -1,3 +1,19 @@
-[gd_scene format=2]
+[gd_scene load_steps=4 format=2]
 
-[node name="Node2D" type="Node2D"]
+[ext_resource path="res://assets/scripts/testscript.cs" type="Script" id=1]
+[ext_resource path="res://assets/sprites/yotsuba.webp" type="Texture" id=2]
+
+[sub_resource type="CircleShape2D" id=1]
+radius = 80.0228
+
+[node name="YotsubaPlayer" type="KinematicBody2D"]
+script = ExtResource( 1 )
+
+[node name="Sprite" type="Sprite" parent="."]
+position = Vector2( 328.221, 340.113 )
+scale = Vector2( 0.179447, 0.179447 )
+texture = ExtResource( 2 )
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2( 327.58, 338.919 )
+shape = SubResource( 1 )
