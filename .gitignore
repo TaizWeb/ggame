@@ -1,14 +1,4 @@
-# anon provided a .gitignore which should get us going
+/.import
+/.mono
 
-*/.import
-*/.mono
-*/.directory
-*/.vscode
-*/data_*
-
-export.cfg
-export_presets.cfg
-mono_crash.*.json
-*~
-*.translation
 
