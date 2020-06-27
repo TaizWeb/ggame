@@ -12,3 +12,5 @@ YOU NEED THE .NET DEVELOPER PACK FOR VERSION 4.7 !!!! OR ELSE YOU WONT BE ABLE T
 https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net47-developer-pack-offline-installer
 
 INSTALL GODOT WITH THE MONO/C# SUPPORT!
+
+YOU CAN USE ANY LANGUAGE (GODOT SUPPORTS) YOU WANT IF C# IS NOT YOUR CUP OF TEA
